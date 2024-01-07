@@ -8,3 +8,5 @@
 # 5. Restart and clone in the old OS + program to the new partition
 # 6. Boot up the new program and verify any issues
 # 7. Reboot and change boot partition and run the old OS + program and verify any issue.
+# 8. Any issue, prioritise with severity into tracking list
+# 9. Fixed according to priority.
