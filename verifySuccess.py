@@ -10,3 +10,5 @@
 # 7. Reboot and change boot partition and run the old OS + program and verify any issue.
 # 8. Any issue, prioritise with severity into tracking list
 # 9. Fixed according to priority.
+
+#Added comments above
