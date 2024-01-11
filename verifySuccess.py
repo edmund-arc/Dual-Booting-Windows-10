@@ -1,3 +1,4 @@
+#hope to use python for this
 # The purpose of the this pythin script is to verify objective of this project, that is, to verify dual booting is successful.
 
 # The verifying steps is as follows:
